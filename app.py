@@ -9,7 +9,7 @@ st.set_page_config(page_title="SAN ROMÁN DE LA VEGA", page_icon="🌤️", layo
 
 # SUSTITUYE AQUÍ TUS CREDENCIALES
 STATION_ID = "ISANJUST8"
-API_KEY = "1cb031dea0a440a9b031dea0a400a91f"
+API_KEY = "37e336bc57d14a0ea336bc57d13a0eca"
 
 # --- FUNCIONES DE DATOS ---
 def get_current_weather():
@@ -62,4 +62,5 @@ except Exception as e:
 
 # Botón de refresco manual
 if st.sidebar.button('🔄 Actualizar Datos'):
+
     st.rerun()
