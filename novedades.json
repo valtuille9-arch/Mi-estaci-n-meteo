@@ -1,14 +1,5 @@
 [
-  {
-    "Title": "Nueva Estación en Marcha",
-    "Subtitle": "Ya estamos recibiendo datos en tiempo real desde San Román.",
-    "Description": "Publicado el 15/04/2024",
-    "Image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/icono_estacion.png"
-  },
-  {
-    "Title": "Alerta por Frío",
-    "Subtitle": "Se espera una bajada de temperaturas esta madrugada.",
-    "Description": "Publicado el 16/04/2024",
-    "Image": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/icono_frio.png"
-  }
+  "Nueva Estación en Marcha: Ya estamos online en San Román.",
+  "Alerta por Frío: Se espera bajada de temperaturas.",
+  "Aviso: Datos actualizados cada 10 minutos."
 ]
